@@ -1,4 +1,4 @@
-# 🌤️ Arian Weather App
+# 🌤️ Realtime  Weather App
 
 A clean and responsive weather web application built using **React** and **JavaScript**. It fetches real-time weather data for any city using a public weather API and displays current conditions, hourly and daily forecasts with beautiful icons and layout.
 
